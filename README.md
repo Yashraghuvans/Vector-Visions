@@ -1,3 +1,5 @@
+![logo](https://github.com/Yashraghuvans/Vector-Visions/blob/main/logo.jpg)
+
 # Vector-Visions
 
 This repository contains a simple Python script to perform video segmentation using YOLOv8 and Ultralytics.
